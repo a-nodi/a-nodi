@@ -16,7 +16,7 @@ I hope to be a roboticist in the future. ~~(To conquer the world with a robot ar
 - Member of UNIDEV(Unified game dev society of Universities in korea) (2023.08 ~ )
 - Member of POSCAT(Algorithm & AI dev society in POSTECH) (2023.03 ~ )  
   Developing Sc2 Ai bot with V-Lab(AI dev society in KAIST).
-- Member of POWER-ON(Robotics society in POSTECH)
+- Member of POWER-ON(Robotics society in POSTECH)    
   Developing Automatic Turret.
   
 ### Previously,
