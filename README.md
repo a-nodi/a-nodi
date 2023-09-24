@@ -14,7 +14,7 @@ I hope to be a roboticist in the future. ~~(To conquer the world with a robot ar
 - Vice president of G-Pos(Game dev society in POSTECH) (2022.03 ~ )
   Developing FLAVITY: 3D platformer FPS (2nd place in UNICON 2023).
 - Member of UNIDEV(Unified game dev society of Universities in korea) (2023.08 ~ )
-- Member of POSCAT(Algorithm & AI dev society in POSTECH)
+- Member of POSCAT(Algorithm & AI dev society in POSTECH) (2023.03 ~ )  
   Developing Sc2 Ai bot with V-Lab(AI dev society in KAIST).
 - Member of POWER-ON(Robotics society in POSTECH)
   Developing Automatic Turret.
