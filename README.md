@@ -10,11 +10,19 @@ I hope to be a roboticist in the future. ~~(To conquer the world with a robot ar
 - Cognitive science and Philosophy of mind
 
 ### Currently,
-- Intern at CVlab, SNU
-- Member of G-Pos(Game dev society in POSTECH) and UNIDEV(Unified game dev society of Universities in korea).  
-  Developing FLAVITY: 3D platformer FPS (2nd place in UNICON 2023) 
-- Member of POSTECH AI team for 2023 POSTECH-KAIST SCIENCE WAR.  
-  Devoloping Model that plays customized quoridor.
+- Intern at CVlab, SNU (2023.09 ~ )
+- Vice president of G-Pos(Game dev society in POSTECH) (2022.03 ~ )
+  Developing FLAVITY: 3D platformer FPS (2nd place in UNICON 2023).
+- Member of UNIDEV(Unified game dev society of Universities in korea) (2023.08 ~ )
+- Member of POSCAT(Algorithm & AI dev society in POSTECH)
+  Developing Sc2 Ai bot with V-Lab(AI dev society in KAIST).
+- Member of POWER-ON(Robotics society in POSTECH)
+  Developing Automatic Turret.
+  
+### Previously,
+- Intern at POSTECH CVlab (2022.12 ~ 2023.2, 2023.06 ~ 2023.09)
+- Member of POSTECH AI team for 2023 POSTECH-KAIST SCIENCE WAR(4:1, POSTECH WIN)  
+  Devoloped Model that plays customized quoridor. 
 
 <!--
 **a-nodi/a-nodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
