@@ -7,7 +7,7 @@ I hope to become a roboticist in the future. ~~(To conquer the world with a robo
 - 3D Vision
 - Robotics
 - Game development
-- Reinforcement learning (Application to robot manipulation and game bot)
+- Reinforcement learning (Application to robot manipulation and game bot development)
 - Cognitive science and Philosophy of mind
 
 ### Currently,
