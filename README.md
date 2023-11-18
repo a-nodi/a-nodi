@@ -19,7 +19,7 @@ I hope to become a roboticist in the future. ~~(To conquer the world with a robo
 - Member of [PAIS](https://github.com/POSTECH-PAIS) (Weekly paper review society in POSTECH) (2023.09 ~ )
 - Member of [POWER-ON](https://poweron.club/project) (Robotics society in POSTECH) (2022.03 ~ )   
   Developing Automatic Turret.
-- Leader of POSTECH AI team of 2024 POSTECH-KAIST SCIENCE WAR (2023.09 ~ )
+- Leader of POSTECH AI team of 2024 POSTECH-KAIST SCIENCE WAR (2023.09 ~ )  
   Developing a bot that plays Starcraft2, currently [collaborating](https://github.com/kapo-war) with VLab (AI dev society in KAIST).
   
 ### Previously,
