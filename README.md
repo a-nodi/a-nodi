@@ -1,7 +1,7 @@
 
-I'm Yoonhyeok Lee. I'm an undergraduate student at POSTECH, majoring in CSE. 
-I want to engage in various activities related to AI/robotics, so I am actively pursuing everything in this field.
-I hope to become a roboticist in the future. ~~(To conquer the world with a robot army.)~~
+I'm Yoonhyeok Lee. I'm an undergraduate student at POSTECH, majoring in CSE.  
+I want to engage in various activities related to AI/robotics, so I am actively pursuing everything in this field.  
+I hope to become a roboticist in the future. ~~(To conquer the world with a robot army.)~~  
 
 ### Interested fields (Quite mixed up and abstract, i think.)
 - 3D Vision
