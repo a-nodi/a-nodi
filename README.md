@@ -23,7 +23,7 @@ I hope to become a roboticist in the future. ~~(To conquer the world with a robo
   
 ### Previously,
 - Intern at [POSTECH CVlab](https://cvlab.postech.ac.kr/lab/) (2022.12 ~ 2023.2, 2023.06 ~ 2023.09) Under the supervision by Prof. Jaesik Park
-- Vice president of [G-Pos](https://gpos.postech.ac.kr/wordpress/) (Game dev society in POSTECH) (2023.03 ~ 2024.02)
+- Vice president of [G-Pos](https://gpos.postech.ac.kr/wordpress/) (Game dev society in POSTECH) (2023.03 ~ 2024.02)  
   Developed [FLAVITY](https://github.com/DevMizeKR/GPOS-2023-FLAVITY): 3D platformer FPS (2nd place in UNICON 2023)  
   Developed [TO THE STAR](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-to-the-STAR): 2D platformer game (submitted to NDM 2023)  
 - Member of POSCAT (Algorithm & AI dev society in POSTECH) (2023.03 ~ 2024.02)
