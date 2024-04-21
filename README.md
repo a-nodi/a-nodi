@@ -8,6 +8,7 @@ I want to engage in various activities related to AI/Robotics/Game Dev, so I am 
 - Game development
 - Reinforcement learning (Application to robot manipulation and game bot development)
 
+
 ### Currently,
 - Intern at [SNU-VGILab](https://jaesik.info/lab) (2023.09 ~ ) Under the supervision by Prof. Jaesik Park
 - Leader of [POSTECH AI team of 2024 POSTECH-KAIST SCIENCE WAR](https://github.com/orgs/2024-poka-melee/repositories) (2023.09 ~ )  
@@ -31,6 +32,15 @@ I want to engage in various activities related to AI/Robotics/Game Dev, so I am 
   Developed an AI agent that plays customized quoridor.  
 - 2023-2 GLP(Global Leadership Program) Merit-based Scholarship (2023.09 ~ 2024.08)
 - 2024-1 GLP(Global Leadership Program) Merit-based Scholarship (2024.03 ~ 2025.02)
+
+
+### Programming Language & Tools(Frameworks, Engines, etc..)
+- C, C++ (with QT), C# (with Unity)
+- Python
+- JavaScript
+- Docker
+- WandB
+- 
 <!--
 **a-nodi/a-nodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
