@@ -40,7 +40,6 @@ I want to engage in various activities related to AI/Robotics/Game Dev, so I am 
 - JavaScript
 - Docker
 - WandB
-- 
 <!--
 **a-nodi/a-nodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
