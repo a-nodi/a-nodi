@@ -36,7 +36,7 @@ I want to engage in various activities related to AI/Robotics/Game Dev, so I am 
 
 ### Programming Language & Tools(Frameworks, Engines, etc..)
 - C, C++ (with QT), C# (with Unity)
-- Python
+- Python (With Pytorch, MinkowskiEngine, OpenCV, Open3D, etc...)
 - JavaScript
 - Docker
 - WandB
