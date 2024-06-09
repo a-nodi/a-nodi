@@ -12,8 +12,8 @@ I want to engage in various activities related to AI/Robotics/Game Dev, so I am 
 ### Currently,
 - Intern at [SNU-VGILab](https://jaesik.info/lab) (2023.09 ~ ) Under the supervision by Prof. Jaesik Park
 - Leader of [POSTECH AI team of 2024 POSTECH-KAIST SCIENCE WAR](https://github.com/orgs/2024-poka-melee/repositories) (2023.09 ~ )  
-  ~~Developing a bot that plays Starcraft2~~
-   Developing an AI agent that plays Super Smash Bros Melee, currently collaborating with VLab (AI dev society in KAIST).  
+  ~~Developing a bot that plays Starcraft2~~  
+  Developing an AI agent that plays Super Smash Bros Melee, currently collaborating with VLab (AI dev society in KAIST).  
 - Member of [G-Pos](https://gpos.postech.ac.kr/wordpress/) (Game dev society in POSTECH) (2022.03 ~ 2023.02, 2024.02~)
 - Member of UNIDEV (Unified Game Dev Society of Universities in Korea) (2023.08 ~ )
 - Vice president of [POSCAT](https://popo.poapper.club/club/introduce/study/POSCAT) (Algorithm & AI dev society in POSTECH) (2023.02 ~ )  
