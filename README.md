@@ -11,8 +11,6 @@ I want to engage in various AI/Robotics/Game Dev-related activities, so I am act
 
 
 ### Currently,
-- Intern at [SNU-VGILab](https://jaesik.info/lab) (2023.09 ~ 2024.07)
-  Under the supervision of Prof. Jaesik Park  
 - Leader of [POSTECH AI team of 2024 POSTECH-KAIST SCIENCE WAR](https://github.com/2024-poka-science-war-ai) (2023.09 ~ )  
   ~~Developing a bot that plays Starcraft2~~  
   Developing an AI agent that plays Super Smash Bros Melee  
@@ -26,6 +24,8 @@ I want to engage in various AI/Robotics/Game Dev-related activities, so I am act
 ### Previously,
 - Intern at [POSTECH CVlab](https://cvlab.postech.ac.kr/lab/) (2022.12 ~ 2023.2, 2023.06 ~ 2023.09)
   Under the supervision of Prof. Jaesik Park
+- Intern at [SNU-VGILab](https://jaesik.info/lab) (2023.09 ~ 2024.07)
+  Under the supervision of Prof. Jaesik Park  
 - Vice president of [G-Pos](https://gpos.postech.ac.kr/wordpress/) (Game dev society in POSTECH) (2023.03 ~ 2024.02)  
   Developed [FLAVITY](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2023-FLAVITY): 3D platformer FPS (2nd place in UNICON 2023)  
   Developed [TO THE STAR](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-to-the-STAR): 2D platformer game (submitted to NDM 2023)  
