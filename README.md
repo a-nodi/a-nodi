@@ -14,7 +14,7 @@ I want to engage in various AI/Robotics/Game Dev-related activities, so I am act
 - Leader of [POSTECH AI team of 2024 POSTECH-KAIST SCIENCE WAR](https://github.com/2024-poka-science-war-ai) (2023.09 ~ )  
   ~~Developing a bot that plays Starcraft2~~  
   Developing an AI agent that plays Super Smash Bros Melee  
-- Member of [G-Pos](https://gpos.postech.ac.kr/wordpress/) (Game dev society in POSTECH) (2022.03 ~ 2023.02, 2024.02 ~)
+- Member of [G-Pos](https://gpos.postech.ac.kr/wordpress/) (Game dev society in POSTECH) (2022.03 ~ 2023.02, 2024.02 ~)  
   Developing VR FPS TD(Working title): VR FPS Tower Defense    
 - Member of UNIDEV (Unified Game Dev Society of Universities in Korea) (2023.08 ~ )
 - Vice president of [POSCAT](https://popo.poapper.club/club/introduce/study/POSCAT) (Algorithm & AI dev society in POSTECH) (2023.02 ~ )  
@@ -22,9 +22,9 @@ I want to engage in various AI/Robotics/Game Dev-related activities, so I am act
 
   
 ### Previously,
-- Intern at [POSTECH CVlab](https://cvlab.postech.ac.kr/lab/) (2022.12 ~ 2023.2, 2023.06 ~ 2023.09)
+- Intern at [POSTECH CVlab](https://cvlab.postech.ac.kr/lab/) (2022.12 ~ 2023.2, 2023.06 ~ 2023.09)  
   Under the supervision of Prof. Jaesik Park
-- Intern at [SNU-VGILab](https://jaesik.info/lab) (2023.09 ~ 2024.07)
+- Intern at [SNU-VGILab](https://jaesik.info/lab) (2023.09 ~ 2024.07)  
   Under the supervision of Prof. Jaesik Park  
 - Vice president of [G-Pos](https://gpos.postech.ac.kr/wordpress/) (Game dev society in POSTECH) (2023.03 ~ 2024.02)  
   Developed [FLAVITY](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2023-FLAVITY): 3D platformer FPS (2nd place in UNICON 2023)  
