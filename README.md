@@ -11,9 +11,6 @@ I want to engage in various AI/Robotics/Game Dev-related activities, so I am act
 
 
 ### Currently,
-- Leader of [POSTECH AI team of 2024 POSTECH-KAIST SCIENCE WAR](https://github.com/2024-poka-science-war-ai) (2023.09 ~ )  
-  ~~Developing a bot that plays Starcraft2~~  
-  Developing an AI agent that plays Super Smash Bros Melee  
 - Member of [G-Pos](https://gpos.postech.ac.kr/wordpress/) (Game dev society in POSTECH) (2022.03 ~ 2023.02, 2024.02 ~)  
   Developing VR FPS TD(Working title): VR FPS Tower Defense    
 - Member of UNIDEV (Unified Game Dev Society of Universities in Korea) (2023.08 ~ )
@@ -33,6 +30,9 @@ I want to engage in various AI/Robotics/Game Dev-related activities, so I am act
 - Member of [PAIS](https://github.com/POSTECH-PAIS) (Weekly paper review society in POSTECH) (2023.09 ~ 2024.02)
 - Member of [POSTECH AI team of 2023 POSTECH-KAIST SCIENCE WAR](https://github.com/2023-poka-science-war-ai) (2023.08 ~ 2023.09) (Result: 4:1, POSTECH WIN)  
   Developed an AI agent that plays customized quoridor.  
+- Leader of [POSTECH AI team of 2024 POSTECH-KAIST SCIENCE WAR](https://github.com/2024-poka-science-war-ai) (2023.09 ~ ) (Result: 3:2, POSTECH WIN)  
+  ~~Developing a bot that plays Starcraft2~~  
+  Developed an AI agent that plays Super Smash Bros Melee  
 - 2023-2 GLP(Global Leadership Program) Merit-based Scholarship (2023.09 ~ 2024.08)
 - 2024-1 GLP(Global Leadership Program) Merit-based Scholarship (2024.03 ~ 2025.02)
 
