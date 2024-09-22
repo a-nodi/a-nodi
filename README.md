@@ -30,7 +30,7 @@ I want to engage in various AI/Robotics/Game Dev-related activities, so I am act
 - Member of [PAIS](https://github.com/POSTECH-PAIS) (Weekly paper review society in POSTECH) (2023.09 ~ 2024.02)
 - Member of [POSTECH AI team of 2023 POSTECH-KAIST SCIENCE WAR](https://github.com/2023-poka-science-war-ai) (2023.08 ~ 2023.09) (Result: 4:1, POSTECH WIN)  
   Developed an AI agent that plays customized quoridor.  
-- Leader of [POSTECH AI team of 2024 POSTECH-KAIST SCIENCE WAR](https://github.com/2024-poka-science-war-ai) (2023.09 ~ ) (Result: 3:2, POSTECH WIN)  
+- Leader of [POSTECH AI team of 2024 POSTECH-KAIST SCIENCE WAR](https://github.com/2024-poka-science-war-ai) (2023.09 ~ 2024.09) (Result: 3:2, POSTECH WIN)  
   ~~Developing a bot that plays Starcraft2~~  
   Developed an AI agent that plays Super Smash Bros Melee  
 - 2023-2 GLP(Global Leadership Program) Merit-based Scholarship (2023.09 ~ 2024.08)
