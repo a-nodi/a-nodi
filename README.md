@@ -14,7 +14,7 @@ I want to engage in various AI/Robotics/Game Dev-related activities, so I am act
 - Member of [G-Pos](https://gpos.postech.ac.kr/wordpress/) (Game dev society in POSTECH) (2022.03 ~ 2023.02, 2024.02 ~)  
   Developing VR FPS TD(Working title): VR FPS Tower Defense    
 - Member of UNIDEV (Unified Game Dev Society of Universities in Korea) (2023.08 ~ )
-- Vice president of [POSCAT](https://popo.poapper.club/club/introduce/study/POSCAT) (Algorithm & AI dev society in POSTECH) (2023.02 ~ )  
+- Vice president of [POSCAT](https://popo.poapper.club/club/introduce/study/POSCAT) (Algorithm & AI dev society in POSTECH) (2024.02 ~ ) 
 - Member of [POWER-ON](https://poweron.club/project) (Robotics society in POSTECH) (2022.03 ~ )   
 
   
