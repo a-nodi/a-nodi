@@ -30,9 +30,9 @@ I want to engage in various AI/Robotics/Game dev-related activities, so I am act
 - Member of [G-Pos](https://gpos.postech.ac.kr/wordpress/) (Game dev society in POSTECH) (2022.03 ~ 2023.02, 2024.02 ~ 2024.12)  
 - Vice president of [G-Pos](https://gpos.postech.ac.kr/wordpress/) (Game dev society in POSTECH) (2023.03 ~ 2024.02)  
   Developed [FLAVITY](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2023-FLAVITY): 3D platformer FPS (2nd place in UNICON 2023)  
-  Developed [TO THE STAR](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-to-the-STAR): 2D platformer game (submitted to NDM 2023) 
+  Developed [TO THE STAR](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-to-the-STAR): 2D platformer game (submitted to NDM 2023)  
   Developing VR FPS TD(Working title): VR FPS Tower Defense      
-- Member of UNIDEV (Unified Game Dev Society of Universities in Korea) (2023.08 ~ ) 
+- Member of UNIDEV (Unified Game Dev Society of Universities in Korea) (2023.08 ~ )  
 - Member of [POSCAT](https://popo.poapper.club/club/introduce/study/POSCAT) (Algorithm & AI dev society in POSTECH) (2023.03 ~ 2024.02)  
 - Vice president of [POSCAT](https://popo.poapper.club/club/introduce/study/POSCAT) (Algorithm & AI dev society in POSTECH) (2024.02 ~ 2024.12)  
 - Member of [POWER-ON](https://poweron.club/project) (Robotics society in POSTECH) (2022.03 ~ 2024.12)   
