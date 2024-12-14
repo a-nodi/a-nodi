@@ -11,7 +11,7 @@ I want to engage in various AI/Robotics/Game dev-related activities, so I am act
 
 
 ### Currently,
-- Member of POSTECH AI team of 2025 POSTECH-KAIST SCIENCE WAR  (2024.09 ~ 2025.09)
+- Member of POSTECH AI team of 2025 POSTECH-KAIST SCIENCE WAR (2024.09 ~ 2025.09)  
   Developing Mario Kart Wii RL env  
 - Member of IT society network of STEM UNIV (2024.02 ~ )  
   Developing RL game env that AI agent can play  
