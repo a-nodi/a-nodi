@@ -11,11 +11,11 @@ I want to engage in various AI/Robotics/Game dev-related activities, so I am act
 
 
 ### Currently,
-- Member of POSTECH AI team of 2025 POSTECH-KAIST SCIENCE WAR
+- Member of POSTECH AI team of 2025 POSTECH-KAIST SCIENCE WAR  (2024.09 ~ 2025.09)
   Developing Mario Kart Wii RL env  
-- Member of IT society network of STEM UNIV (2024.02 ~ )
-  Developing RL game env that AI agent can play
-- Exchange student at [Montanuniversität Leoben](https://www.unileoben.ac.at/en/)
+- Member of IT society network of STEM UNIV (2024.02 ~ )  
+  Developing RL game env that AI agent can play  
+- Exchange student at [Montanuniversität Leoben](https://www.unileoben.ac.at/en/)  (2025.02 ~ 2025.07)
 
 
 ### Previously,
@@ -31,7 +31,7 @@ I want to engage in various AI/Robotics/Game dev-related activities, so I am act
 - Vice president of [G-Pos](https://gpos.postech.ac.kr/wordpress/) (Game dev society in POSTECH) (2023.03 ~ 2024.02)  
   Developed [FLAVITY](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2023-FLAVITY): 3D platformer FPS (2nd place in UNICON 2023)  
   Developed [TO THE STAR](https://github.com/GPOS-Gamemakers-in-POSTECH/GPOS-2024-to-the-STAR): 2D platformer game (submitted to NDM 2023)  
-  Developing VR FPS TD(Working title): VR FPS Tower Defense      
+  Developing VR FPS TD(Working title): VR FPS Tower Defense  
 - Member of UNIDEV (Unified Game Dev Society of Universities in Korea) (2023.08 ~ )  
 - Member of [POSCAT](https://popo.poapper.club/club/introduce/study/POSCAT) (Algorithm & AI dev society in POSTECH) (2023.03 ~ 2024.02)  
 - Vice president of [POSCAT](https://popo.poapper.club/club/introduce/study/POSCAT) (Algorithm & AI dev society in POSTECH) (2024.02 ~ 2024.12)  
